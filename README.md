@@ -1,4 +1,4 @@
-Hi, I’m @vivi-stardust ✨
+Hi, I’m @vivi-stardust ✨ <br />
 I'm an amateur programmer/game developer. I doubt I'll collaborate with other people soon because I have a horrible sense of impostor syndrome.
 
 - I currently speak Python and GDScript. Looking to learn C and C# in the near future.
